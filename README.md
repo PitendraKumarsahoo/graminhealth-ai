@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="C:\Users\kumar\OneDrive\Pictures\Screenshots\Screenshot (69).png" />
+<img width="1200" height="475" alt="GHBanner" src="C:\Users\kumar\OneDrive\Pictures\Screenshots\Screenshot (69).png![Uploading Screenshot (69).png…]()
+" />
 </div>
 
 # Run and deploy your AI Studio app
